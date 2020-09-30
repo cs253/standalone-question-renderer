@@ -17,7 +17,7 @@ when it is resubmitted to the PG renderer the entered answers are checked
 and the result is  returned to the browser.
 
 
-The UML for the project is at:  
+The URL for the project is:  
 http://mgage.github.com/standalone-question-renderer/csc253_server_project.html
 
 The items in yellow are the scripts that should be written to connect the Ruby webserver and the 
@@ -29,4 +29,4 @@ can be used as a model.
 
 A description of the existing perl code for the PG renderer is in README2.
 
-
+For further information read README2.
